@@ -1,0 +1,3 @@
+# Private keys and server details — never commit
+*.pem
+Essentials.txt
